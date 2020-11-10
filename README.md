@@ -6,10 +6,9 @@ Esse programa lê um vetor de 50 números inteiros, cada Inteiro i com limite 0 
 
 # Execução
 
-`gcc -o contador contador.c
-`··
-`./contador < arquivo_entrada > arquivo_saida
- `    
+>gcc -o contador contador.c
+
+>./contador < arquivo_entrada > arquivo_saida
     O arquivo deve conter 50 numeros separados por um espaço no seguinte formato:
 >      numero1 numero2 ... numero50
     A saida do programa é
